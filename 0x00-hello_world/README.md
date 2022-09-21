@@ -1,2 +1,1 @@
-#!/bin/bash/
-This is another README
+script that compiles a C file but does not link.
